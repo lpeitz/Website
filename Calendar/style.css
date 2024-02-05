@@ -122,8 +122,7 @@ body{
 .calendar .month .prev:hover,
 .calendar .month .next:hover{
 
-    color: var(--primary-color);
-   
+    color: #000000;   
 }
 
 .calendar .days-of-week{
