@@ -1,0 +1,30 @@
+*{
+
+    color: red;
+}
+
+.btn{
+    
+    height: calc(auto - 25%);
+    width: calc(auto - 97%);
+    margin-bottom: auto;
+    margin-left:15px;
+    background-color: rgb(0, 0, 0); 
+    border: 2px; 
+    border-radius: 25px;
+    color: rgb(255, 255, 255); 
+    padding: 25px 25px; 
+    font-size: 20px; 
+    cursor: pointer;
+}
+  
+.btn:hover{
+    
+    background-color: rgb(18, 22, 32);
+}
+
+.btn .icon{
+
+    font-size: 55px;
+    color: #ffffff;
+}
